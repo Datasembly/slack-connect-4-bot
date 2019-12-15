@@ -17,7 +17,7 @@ module.exports = {
             blue: ':large_blue_circle:',
             white: ':white_circle:'
         },
-        celebrate: ':tada:',
+        celebrate: ':datasembly:',
         fire: ':fire:',
         face: {
             neutral: ':neutral:'
